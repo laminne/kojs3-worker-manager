@@ -1,0 +1,7 @@
+**/test-case
+.sh
+main
+.rb
+.js
+/ruby/main.rb
+/c/exec.sh
